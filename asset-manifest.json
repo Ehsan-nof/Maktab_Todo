@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Maktab_Todo/static/css/main.3b42b976.chunk.css",
+    "main.js": "/Maktab_Todo/static/js/main.0ca3beb7.chunk.js",
+    "main.js.map": "/Maktab_Todo/static/js/main.0ca3beb7.chunk.js.map",
+    "runtime~main.js": "/Maktab_Todo/static/js/runtime~main.8bb2dd58.js",
+    "runtime~main.js.map": "/Maktab_Todo/static/js/runtime~main.8bb2dd58.js.map",
+    "static/css/2.5aa997f2.chunk.css": "/Maktab_Todo/static/css/2.5aa997f2.chunk.css",
+    "static/js/2.5881e23d.chunk.js": "/Maktab_Todo/static/js/2.5881e23d.chunk.js",
+    "static/js/2.5881e23d.chunk.js.map": "/Maktab_Todo/static/js/2.5881e23d.chunk.js.map",
+    "index.html": "/Maktab_Todo/index.html",
+    "precache-manifest.ace2f94437af4f882fb1c84b474e636a.js": "/Maktab_Todo/precache-manifest.ace2f94437af4f882fb1c84b474e636a.js",
+    "service-worker.js": "/Maktab_Todo/service-worker.js",
+    "static/css/2.5aa997f2.chunk.css.map": "/Maktab_Todo/static/css/2.5aa997f2.chunk.css.map",
+    "static/css/main.3b42b976.chunk.css.map": "/Maktab_Todo/static/css/main.3b42b976.chunk.css.map"
+  }
+}
